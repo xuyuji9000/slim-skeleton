@@ -4,4 +4,4 @@ logs/app.log
 uploads/
 cache/
 *.swp
-compser.lock
+composer.lock
